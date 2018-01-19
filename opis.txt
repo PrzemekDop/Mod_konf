@@ -1,1 +1,2 @@
 program zawiera komedy konfiguracyjne 
+komedny wysyłane za pomoca modbus
